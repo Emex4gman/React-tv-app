@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-tv-app/static/css/main.88a7ba1c.chunk.css",
+    "main.js": "/React-tv-app/static/js/main.3736c722.chunk.js",
+    "main.js.map": "/React-tv-app/static/js/main.3736c722.chunk.js.map",
+    "runtime~main.js": "/React-tv-app/static/js/runtime~main.d526bf16.js",
+    "runtime~main.js.map": "/React-tv-app/static/js/runtime~main.d526bf16.js.map",
+    "static/js/2.409cc7f3.chunk.js": "/React-tv-app/static/js/2.409cc7f3.chunk.js",
+    "static/js/2.409cc7f3.chunk.js.map": "/React-tv-app/static/js/2.409cc7f3.chunk.js.map",
+    "index.html": "/React-tv-app/index.html",
+    "precache-manifest.bbe18caa35803d80052c2d91c7cd1e1d.js": "/React-tv-app/precache-manifest.bbe18caa35803d80052c2d91c7cd1e1d.js",
+    "service-worker.js": "/React-tv-app/service-worker.js",
+    "static/css/main.88a7ba1c.chunk.css.map": "/React-tv-app/static/css/main.88a7ba1c.chunk.css.map",
+    "static/media/loader.gif": "/React-tv-app/static/media/loader.ad1152b5.gif"
+  }
+}
