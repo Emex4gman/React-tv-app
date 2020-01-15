@@ -16,8 +16,7 @@ const SeriesList = (props) =>{
    return(
        <div>
            <ul className="series-list">
-                {props.list.map(series =>(
-                    <SeriesListItems series ={series} key={series.show.id} />
+                {props.list.map(series =>(<SeriesListItems series ={series} key={series.show.id} />
                 ))}
            </ul>
        </div>
