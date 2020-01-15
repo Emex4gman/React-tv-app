@@ -10,9 +10,7 @@ import { BrowserRouter } from 'react-router-dom';
 //const greeting = React.createElement('h1', {}, 'hello world');
 
 ReactDOM.render(
-  <BrowserRouter>
-    <App />
-  </BrowserRouter>,
+  <BrowserRouter><App /></BrowserRouter>,
   document.getElementById('root')
 );
 
