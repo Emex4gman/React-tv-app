@@ -19,7 +19,7 @@ class Series extends Component {
 
     this.setState({ seriesName: e.target.value, isFetching: true })
 
-    fetch(`http://api.tvmaze.com/search/shows?q=${e.target.value}`)
+    fetch(`https://api.tvmaze.com/search/shows?q=${e.target.value}`)
       .then(res => res.json())
       .then(json => this.setState({ series: json, isFetching: false }))
     //console.log(e.target.value);
